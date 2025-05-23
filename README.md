@@ -9,7 +9,7 @@ This repository contains the python implementation of a Sound Event Detection sy
 Execute the following commands to setup you project.
 
 ```bash 
-git clone https://github.com/robertanto/Real-Time-Sound-Event-Detection.git
+git clone https://github.com/Shraddha-DS/Real-Time-Acoustic-Scene-Analysis.git
 cd Real-Time-Sound-Event-Detection
 pip3 install -r requirements.txt
 ```
